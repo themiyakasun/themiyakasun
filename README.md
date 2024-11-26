@@ -34,8 +34,8 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/themiya-kasun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://fb.com/themiya.kasun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/themiya-kasun-185a51161" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/Themiya-Kasun/pfbid02ryTwL4i5QYmiTg9aYYi5G77w96vipxFTGuxALffEdxL2q5e3VZQPXgvisARb8rRRl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
   <a href="mailto:themiyakasun.tb@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" /></a>
 </p>
 
