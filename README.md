@@ -17,7 +17,7 @@
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
-<p align="center">
+<p align="center" style="margin-bottom: 30px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
@@ -43,9 +43,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themiyakasun&show_icons=true&locale=en" alt="themiyakasun" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themiyakasun&" alt="themiyakasun" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiyakasun&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=themiyakasun&show_icons=true&theme=dark&locale=en" alt="themiyakasun" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themiyakasun&theme=dark" alt="themiyakasun" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiyakasun&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
