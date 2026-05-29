@@ -1,25 +1,92 @@
-# Themiya Kasun
-**Full-Stack Developer | Sri Lanka**
 
-![Profile Views](https://komarev.com/ghpvc/?username=themiyakasun&label=Views&color=gray&style=flat-square)
+# Hi there 👋 I'm Themiya Kasun
 
-I'm a software engineer focused on building clean, scalable web applications and microservices. I debug faster than I decide on lunch.
+### Full-Stack Developer | DevOps Enthusiast | Cloud & Linux Explorer 🇱🇰
 
-### 💻 What I'm Up To
-- 🌱 **Learning:** React Native, .NET Web API
-- 👯 **Collaborating on:** Innovative web apps and open-source solutions
-- 💬 **Ask me about:** React, Next.js, Node.js, PHP, .NET
+I'm a passionate full-stack developer from Sri Lanka with **3+ years of experience** building scalable web applications, APIs, and modern digital solutions.
 
-### 🛠 Tech Stack
-- **Frontend:** React, React Native, TypeScript, JavaScript
-- **Backend:** Node.js, .NET, PHP
-- **Data & Cloud:** MongoDB, MySQL, AWS, Git
+I enjoy working across the full stack — from creating responsive frontends to designing backend systems and exploring **DevOps, Cloud, Containers, and AI workflows**.
 
-### 📊 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=themiyakasun&theme=transparent&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themiyakasun&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **React Native, Kubernetes, Docker, AWS & DevOps**
+- 💻 Building with **React, Next.js, Node.js, .NET Web API, MongoDB & SQL**
+- ☁️ Exploring **Cloud Infrastructure & Containerized Applications**
+- 🐧 Linux user focused on development & server environments
+- 🤝 Open to collaborating on **web applications, SaaS products & startup ideas**
+- 💬 Ask me about **React, Next.js, Node.js, .NET, APIs, MongoDB**
+- 📫 Reach me at **themiyakasun.tb@gmail.com**
+
+> ⚡ Fun fact: I debug code faster than I decide what to eat.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-### 🌐 Connect & Support
-[LinkedIn](https://www.linkedin.com/in/themiya-kasun-185a51161) • [Email](mailto:themiyakasun.tb@gmail.com) • [Buy Me a Coffee](https://www.buymeacoffee.com/themiya)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,express" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=themiyakasun&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themiyakasun&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=themiyakasun&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/themiya-kasun-185a51161">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:themiyakasun.tb@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/themiya">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=themiyakasun&color=blueviolet&style=flat-square)
+```
