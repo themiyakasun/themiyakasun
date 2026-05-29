@@ -88,5 +88,3 @@ I enjoy working across the full stack — from creating responsive frontends to 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=themiyakasun&color=blueviolet&style=flat-square)
-```
